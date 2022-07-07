@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">XP Stock</string>
+    <string name="inventario">Inventario</string>
+    <string name="listas">Listas</string>
+    <string name="Mas">Más</string>
+    <string name="Acerda">Acerca De</string>
+    <string name="buscador">Buscador</string>
+    <string name="version">1.0.0</string>
+    <string name="precio">Precio:</string>
+    <string name="disponible">Disponible:</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="inicio">Iniciar Sesión</string>
+</resources>

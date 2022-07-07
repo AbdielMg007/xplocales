@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603487478234",
+    "project_id": "xp-stock",
+    "storage_bucket": "xp-stock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603487478234:android:c11179bf1d6ddb544c20e3",
+        "android_client_info": {
+          "package_name": "com.mg.xpstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603487478234-n206p6l2r9jouvl2no12cl3sf4mog5c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPKOGTe0b8d25-64dQKL1r-mHAj3ghhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603487478234-n206p6l2r9jouvl2no12cl3sf4mog5c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
